@@ -2,7 +2,7 @@
   "name": "getting-started",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://sachinidilanka31.github.io/algolia-interview",
+  "homepage": "https://sachinidilanka31.github.io/algolia-interview/",
 
   "scripts": {
     "start": "react-scripts start",
